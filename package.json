@@ -1,0 +1,12 @@
+{
+  "name": "react-native-picker-mc",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "http://gel.magiclick.net/MagiClick/react-native/react-native-picker-mc.git",
+  "author": "MagiClick",
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^2.3.2",
+    "@react-native-community/picker": "^1.3.0",
+    "moment": "^2.24.0"
+  }
+}
